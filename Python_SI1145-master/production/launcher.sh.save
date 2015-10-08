@@ -1,0 +1,6 @@
+#!/bin/sh
+#launcher.sh
+cd /
+cd home/pi/Desktop/Python_SI1145-master/production
+sudo python everest.py
+cd /
